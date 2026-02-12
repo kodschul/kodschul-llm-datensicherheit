@@ -1,0 +1,6 @@
+requests
+langchain
+llama-index
+langchain-community
+langchain-ollama
+chromadb

@@ -1,0 +1,111 @@
+# Häufig gestellte Fragen (FAQ) - TechVision Solutions GmbH
+
+## Allgemeine Fragen
+
+**F: Wer ist TechVision Solutions?**
+A: TechVision Solutions ist ein führendes Softwareunternehmen mit über 500 Mitarbeitern, spezialisiert auf Cloud-Lösungen und künstliche Intelligenz. Wir arbeiten seit 2015 mit Fortune-500-Unternehmen zusammen.
+
+**F: Wo befinden sich eure Büros?**
+A: Wir haben Hauptbüros in Berlin, München, San Francisco und Singapur. Zusätzlich beschäftigen wir Remote-Teams in 25 weiteren Ländern.
+
+**F: Wie kann ich mich bewerben?**
+A: Besuchen Sie unsere Karriereseite auf www.techvision.de/karriere. Laden Sie dort Ihren Lebenslauf und Ihr Anschreiben hoch.
+
+## Produkte & Services
+
+**F: Welche Produkte bietet ihr an?**
+A: Unsere Hauptprodukte sind: CloudSync Pro (Cloud-Verwaltung), AIAnalytics (Datenanalyse), SecureVault (Sicherheitslösungen) und DevOps Commander (CI/CD-Plattform).
+
+**F: Gibt es eine kostenlose Testversion?**
+A: Ja, alle Produkte haben eine 30-Tage kostenlose Trial-Version ohne Kreditkarte erforderlich.
+
+**F: Welche Unternehmen nutzen eure Lösungen?**
+A: Über 2000 Unternehmen weltweit, darunter SAP, Siemens, Deutsche Bank und Spotify.
+
+## Technischer Support
+
+**F: Wie erreiche ich den technischen Support?**
+A: Per E-Mail (support@techvision.de), Live-Chat auf unserer Website oder Telefon: +49 30 555-0123. Support ist 24/7 verfügbar.
+
+**F: Wie lange dauert die durchschnittliche Antwortzeit?**
+A: Enterprise-Kunden: 1 Stunde, Premium-Kunden: 4 Stunden, Standard-Kunden: 24 Stunden.
+
+**F: Bietet ihr Schulungen an?**
+A: Ja, wir bieten Online-Kurse, On-Site-Schulungen und zertifizierte Trainings an. Details unter www.techvision.de/training.
+
+## Preisgestaltung & Abrechnung
+
+**F: Wie funktioniert euer Preismodell?**
+A: Wir bieten flexible Modelle: Pay-as-you-go, monatliche Abos und individuelle Enterprise-Verträge.
+
+**F: Können wir monatlich kündigen?**
+A: Ja, bei monatlichen Verträgen mit 30 Tagen Kündigungsfrist. Jahresverträge haben Rabatte von bis zu 25%.
+
+**F: Akzeptiert ihr verschiedene Zahlungsmethoden?**
+A: Ja: Kreditkarte, Banküberweisung, PayPal und Kryptowährungen (Bitcoin, Ethereum).
+
+## Sicherheit & Datenschutz
+
+**F: Wie sicher sind meine Daten bei euch?**
+A: Wir verwenden AES-256-Verschlüsselung, sind ISO 27001 zertifiziert und regelmäßig SOC 2 geprüft.
+
+**F: Erfüllt ihr DSGVO-Standards?**
+A: Vollständig. Alle Daten von EU-Kunden werden in europäischen Rechenzentren gespeichert.
+
+**F: Habt ihr eine Datenschutzerklärung?**
+A: Ja, verfügbar unter www.techvision.de/datenschutz. Wir geben niemals Kundendaten an Dritte weiter.
+
+## Integrationen
+
+**F: Kann ich eure Tools mit bestehenden Systemen verbinden?**
+A: Ja, wir haben vorgefertigte Integrationen für 200+ Anwendungen (Salesforce, Jira, Slack, etc.).
+
+**F: Bietet ihr APIs an?**
+A: Ja, vollständig dokumentierte REST- und GraphQL-APIs sind verfügbar.
+
+**F: Können wir Custom-Integrationen entwickeln?**
+A: Ja, unser Solutions-Team kann maßgeschneiderte Lösungen entwickeln.
+
+## Implementierung & Migration
+
+**F: Wie lange dauert die Implementierung?**
+A: Klein-Projekte: 2-4 Wochen, Mittel: 1-3 Monate, Enterprise: 3-12 Monate.
+
+**F: Könnt ihr alte Daten migrieren?**
+A: Ja, kostenlos für Kunden mit Jahresverträgen. Migration ist meist in 2-4 Wochen abgeschlossen.
+
+**F: Habt ihr Implementierungs-Consulting?**
+A: Ja, dedizierte Project Manager und Technical Consultant für alle Enterprise-Kunden.
+
+## Performance & Zuverlässigkeit
+
+**F: Wie ist eure Verfügbarkeit garantiert?**
+A: 99,99% SLA für Enterprise, 99,9% für Premium, 99,5% für Standard.
+
+**F: Wie war eure Uptime in der Vergangenheit?**
+A: 2023: 99,98%, 2022: 99,97%. Detaillierte Status-Seite: status.techvision.de
+
+**F: Wie skaliert eure Infrastruktur?**
+A: Automatische Skalierung über Kubernetes; beliebig viele Nutzer parallel unterstützt.
+
+## Gebührenmodell Kunden
+
+**F: Was ist in der kostenlosen Stufe enthalten?**
+A: Bis 5 Benutzer, 5GB Speicher, Standard-Support, dokumentierte APIs.
+
+**F: Wann sollte ich upgraden?**
+A: Ab 10+ Benutzern oder 100GB+ Datenvolumen empfehlen wir Premium oder Enterprise.
+
+**F: Können Preise nachverhandelt werden?**
+A: Ja, besonders für mehrjährige Verträge oder größere Teams. Kontaktieren Sie sales@techvision.de.
+
+## Sonstiges
+
+**F: Habt ihr Partnerprogramme?**
+A: Ja, Reseller-, Technology- und Consulting-Partner Programme mit bis zu 40% Provision.
+
+**F: Wie bleibt ihr mit Updates aktuell?**
+A: Monatliche Updates mit neuen Features, sicherheitskritisch Patches sofort.
+
+**F: Kann ich mein Feedback geben?**
+A: Ja, über feedback@techvision.de oder unseres internen Community-Forums.

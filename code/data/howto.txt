@@ -1,0 +1,55 @@
+# How-To: Onboarding neuer Mitarbeiter
+
+## Schritt 1: Account-Erstellung
+1. Neuen Benutzer im Active Directory anlegen
+2. E-Mail-Adresse erstellen
+3. Zugriffsrechte vergeben
+
+## Schritt 2: Ausrüstung
+1. Laptop konfigurieren
+2. Software installieren
+3. VPN-Zugang einrichten
+
+---
+
+# How-To: Urlaubsantrag einreichen
+
+## Voraussetzungen
+- Mindesturlaub verfügbar
+- Keine kritischen Projekte in Bearbeitung
+
+## Schritte
+1. HRMS-Portal öffnen
+2. "Urlaub beantragen" auswählen
+3. Datum eingeben und Grund angeben
+4. Vorgesetzten zur Genehmigung weiterleiten
+5. Bestätigung erhalten
+
+---
+
+# How-To: Sicherheitsupdate durchführen
+
+## Vorbereitung
+1. Backup erstellen
+2. Wartungsfenster ankündigen
+3. Notfall-Kontakte informieren
+
+## Installation
+1. Update herunterladen
+2. Test-System durchlaufen
+3. Produktiv-System aktualisieren
+4. Funktionsprüfung durchführen
+
+---
+
+# How-To: Meeting protokollieren
+
+## During Meeting
+1. Agenda dokumentieren
+2. Beschlüsse notieren
+3. Action Items mit Verantwortlichen erfassen
+
+## Nach dem Meeting
+1. Protokoll verfassen
+2. Termine setzen
+3. An Teilnehmer verteilen
