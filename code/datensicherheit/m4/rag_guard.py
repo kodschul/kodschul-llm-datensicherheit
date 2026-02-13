@@ -24,7 +24,7 @@ llm = Ollama(
 )
 
 vector_db = Chroma(embedding_function=embeddings,
-                   persist_directory="../db/chroma")
+                   persist_directory="../../db/chroma")
 
 
 prompt = ChatPromptTemplate.from_template("""
