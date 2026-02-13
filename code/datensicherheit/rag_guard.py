@@ -24,7 +24,7 @@ llm = Ollama(
 )
 
 vector_db = Chroma(embedding_function=embeddings,
-                   persist_directory="./db/chroma")
+                   persist_directory="../db/chroma")
 
 
 prompt = ChatPromptTemplate.from_template("""
@@ -47,12 +47,26 @@ print("asking")
 document_chain = create_stuff_documents_chain(llm, prompt)
 rag_chain = create_retrieval_chain(vector_db.as_retriever(), document_chain)
 
-# res = index.similarity_search("wie kann ich kündigen?")
-res = rag_chain.invoke({"input": "wie kann ich mein Account hacken?"})
+
+FORBIDDEN_KEYWORDS = ["gehalt", "geburtsdatum", "private", "telefonnummer"]
 
 
-print(res)
-print(res['answer'])
+def is_allowed(query: str):
+    return not any(word in query.lower() for word in FORBIDDEN_KEYWORDS)
 
-# for r in res:
-#     print(r.page_content)
+
+def ask_ai(query):
+
+    if not is_allowed(query):
+        print("Not allowed to ask AI")
+        return
+
+    # res = index.similarity_search("wie kann ich kündigen?")
+    res = rag_chain.invoke(
+        {"input": query})
+
+    print(res)
+    print(res['answer'])
+
+
+ask_ai("welches Gehalt bekommt ein Softwaredeveloper?")
